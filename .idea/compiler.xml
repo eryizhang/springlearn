@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="alisound" />
         <module name="redissentinel" />
         <module name="springlearn" />
         <module name="springonly" />
@@ -14,6 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alisound" options="-parameters" />
       <module name="redissentinel" options="-parameters" />
       <module name="springonly" options="-parameters" />
     </option>
