@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a46c9e75-a7d0-4323-a712-1af9d63f9628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandSwitchMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/ErrorInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/AliboxDeviceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/LoginForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDeviceHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDevicePayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/PayloadExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/alideviceresp/DeviceProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/alideviceresp/PayloadDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alisound/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,19 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDeviceHeader.java">
+        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/alideviceresp/PayloadDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="44" column="2" selection-start-line="44" selection-end-line="53" selection-end-column="7" />
+            <state relative-caret-position="6930">
+              <caret line="350" selection-start-line="350" selection-end-line="350" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,64 +32,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDevicePayload.java">
+        <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="242">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/AliboxDeviceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandSwitchMap.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/ErrorInfo.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/Constants.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandParam.java">
+        <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/PayloadExtension.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-start-column="1" selection-end-line="18" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -154,12 +83,13 @@
         <option value="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/alidevice/AliDevicePayload.java" />
         <option value="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/AliboxDeviceController.java" />
         <option value="$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandParam.java" />
+        <option value="$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml" />
+        <option value="$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1325" />
     <option name="width" value="1554" />
     <option name="height" value="916" />
   </component>
@@ -265,6 +195,18 @@
               <item name="alisound" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alisound" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springlearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="alisound" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -282,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551697975883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552037989444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -295,11 +237,11 @@
       <recent name="com.springonly.swaggerTest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\zijixie_spring\springlearn\alisound\src\main\resources\templates" />
       <recent name="F:\code\zijixie_spring\springlearn\alisound\src\main\java\com\alisound\thymeleaf" />
       <recent name="F:\code\zijixie_spring\springlearn\alisound\src\main\java\com\alisound\thymeleaf\model" />
       <recent name="F:\code\zijixie_spring\springlearn\alisound\src\main\resources" />
       <recent name="F:\code\zijixie_spring\springlearn\alisound\src\main\java\com\alisound\thymeleaf\controller" />
-      <recent name="F:\code\zijixie_spring\springlearn\redissentinel\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,7 +256,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AlisoundApplication">
+    <configuration name="AlisoundApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alisound.thymeleaf.AlisoundApplication" />
+      <module name="alisound" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alisound.thymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RedissentinelApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.redissentinel.RedissentinelApplication" />
       <module name="redissentinel" />
@@ -330,6 +285,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlisoundApplication" />
         <item itemvalue="Application.RedissentinelApplication" />
       </list>
     </recent_temporary>
@@ -348,10 +304,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
+    <frame x="1325" y="0" width="1554" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26372156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,7 +316,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39130434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17519182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -516,40 +472,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/AlisoundApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/LoginForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alisound/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1991">
-          <caret line="279" column="41" selection-start-line="279" selection-start-column="41" selection-end-line="279" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,20 +533,70 @@
     <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/Constants.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/templates/inpro.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/model/LoginForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/AlisoundApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/AliboxDeviceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        <state relative-caret-position="101">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/constant/CommandParam.java">
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/java/com/alisound/thymeleaf/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="6930">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application-shydev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisound/src/main/resources/application-shypro.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-start-column="1" selection-end-line="18" selection-end-column="68" />
         </state>
       </provider>
     </entry>
