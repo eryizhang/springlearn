@@ -35,7 +35,7 @@ public class SwaggerTest {
 
     @Bean
     public Docket createRestApi() {
-        System.out.println("right");
+        //System.out.println("right");
         ApiInfo apiInfo = new ApiInfoBuilder()
                 //页面标题
                 .title("测试title")
@@ -57,7 +57,7 @@ public class SwaggerTest {
         pars.add(tokenPar1.build());
 
         Docket docket = new Docket(DocumentationType.SWAGGER_2).select()
-                .apis(RequestHandlerSelectors.basePackage("com.zyh.learn.zyhlearn")).paths(PathSelectors.ant("/**"))
+                .apis(RequestHandlerSelectors.basePackage("com.springonly")).paths(PathSelectors.ant("/**"))
                 .build().globalOperationParameters(pars).apiInfo(apiInfo);
         return docket;
     }
