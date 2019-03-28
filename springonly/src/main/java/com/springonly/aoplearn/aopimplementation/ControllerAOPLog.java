@@ -4,6 +4,7 @@ import com.springonly.aoplearn.exception.CommonException;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -66,5 +67,13 @@ public class ControllerAOPLog {
             sb.append(e.getMessage());
         }
         LOG.info(sb.toString());
+    }
+
+    @Around("executeMethond()")
+    public Object around(ProceedingJoinPoint joinPoint) throws Throwable {
+        System.out.println("before around.");
+        Object result = joinPoint.proceed();
+        System.out.println("after around.");
+        return result;
     }
 }

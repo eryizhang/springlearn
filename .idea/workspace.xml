@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a46c9e75-a7d0-4323-a712-1af9d63f9628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/controller/AOPController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/exception/CommonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/annotation/beanmodel/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/annotation/beanmodel/DrinkProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/annotation/beanmodel/FruitProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/annotation/beanmodel/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/annotation/beanmodel/SuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/beanmodel/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/beanmodel/DrinkProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/beanmodel/FruitProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/beanmodel/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/beanmodel/SuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/beanmade/hardcoded/BeanApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanFactoryPostProcessorTest/BeanFactoryPostProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanFactoryPostProcessorTest/FactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanPostProcessorTest/FactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerWebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/resources/BeanFactoryPostProcessor-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/resources/application-shydev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/main/resources/test1-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanFactoryPostProcessorTest/BeanFactoryPostProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanFactoryPostProcessorTest/FactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanFactoryPostProcessorTest/TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/q.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springonly/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springonly/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springlearn.log" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="198">
               <caret line="17" selection-start-line="17" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,11 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="71" column="81" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="71" column="81" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -90,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -107,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="968">
               <caret line="59" column="73" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="73" />
             </state>
           </provider>
@@ -117,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerWebMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -125,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/controller/AOPController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+            <state relative-caret-position="638">
+              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+            <state relative-caret-position="488">
+              <caret line="74" column="41" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -223,8 +186,8 @@
         <option value="$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java" />
         <option value="$PROJECT_DIR$/springonly/src/main/resources/application-shydev.yml" />
         <option value="$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java" />
-        <option value="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java" />
         <option value="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/controller/AOPController.java" />
+        <option value="$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java" />
       </list>
     </option>
   </component>
@@ -357,7 +320,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552900532214" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552995874750" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -516,9 +479,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="1592" y="-8" width="1616" height="916" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.311054" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.311054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4539642" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4539642" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49933067" weight="0.37595907" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,7 +509,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.311054" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.311054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -728,18 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorTest.java" />
     <entry file="file://$PROJECT_DIR$/springonly/src/test/java/com/springonly/springinit/BeanPostProcessorTest/PostProcessorB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71">
@@ -810,16 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanFactoryPostProcessorTest/TestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanFactoryPostProcessorTest/TestCase.java" />
     <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/springinit/BeanFactoryPostProcessorTest/BeanFactoryPostProcessorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -919,6 +862,23 @@
         <state relative-caret-position="-737" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="71" column="81" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -926,10 +886,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="71" column="81" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="81" />
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application-shydev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="59" column="73" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerWebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/controller/AOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -943,58 +931,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerWebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/swaggerTest/SwaggerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="59" column="73" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/resources/application-shydev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/SpringonlyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="17" selection-start-line="17" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/controller/AOPController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springonly/src/main/java/com/springonly/aoplearn/aopimplementation/ControllerAOPLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        <state relative-caret-position="488">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
