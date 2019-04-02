@@ -10,6 +10,8 @@
 
     <bean id="apple" class="com.springonly.beanmade.beanmodel.Apple">
     </bean>
+
+
     <bean id="superMarket" class="com.springonly.beanmade.beanmodel.SuperMarket" init-method="init" destroy-method="close">
         <property name="drink" ref="milk"></property>
 
@@ -18,4 +20,8 @@
 
     <!-- Spring后置处理器 -->
     <bean id="postProcessor" class="com.springonly.springinit.BeanPostProcessorTest.PostProcessor"/>
+
+    <bean id="postb" class="com.springonly.springinit.BeanPostProcessorTest.PostProcessorB">
+    </bean>
+
 </beans>
